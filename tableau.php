@@ -8,8 +8,9 @@
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
-<body> <form method="POST" action="enregistrement.php" class="form">
-  <img src="images/Doc.png" width=500px text-align=center>
+<body>
+  <div class="form">
+  <img src="images/Doc.png" width=700px height=100px text-align=center>
     <div class="container">
     <h1 style="text-align: center;">Liste des étudiants</h1>
         <table class="table table-striped">
@@ -45,6 +46,9 @@
             ?>
         </table>
       </div>
-    </form>
+      </div>
+      <footer class="bg-dark mt-3 foo">
+  <p class="text-white text-center pt-3 fooo">&copy; 2023 Maman Digitale. Tous droits réservés.</p>
+</footer>
 </body>
 </html>

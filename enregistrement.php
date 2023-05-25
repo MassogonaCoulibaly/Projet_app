@@ -26,12 +26,13 @@ else{
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Confirmation</title>
 </head>
 <body>
-    <div >
+    
+<div style="text-align:center" bg-dark>
     <a href="tableau.php"><button type="button">Afficher la liste.</button></a>
-
+    <a href="inscription.php"><button type="button">Retour.</button></a>
     </div>
 </body>
 </html>

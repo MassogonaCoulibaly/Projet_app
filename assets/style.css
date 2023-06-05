@@ -12,6 +12,14 @@ form {
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     
   }
+  .form{
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #CFD6DC;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  }
   h1{
     font-size: 50px;
     margin-bottom: 50px;
@@ -84,17 +92,16 @@ form {
     font-size: 1rem;
     transition: all 0.3s ease;
   }
-  .but , .but1{
+  .but , .but1 , .bu2{
     background-color: #333456;
     color: #f9f9f9;
   }
   .but{
     margin-left: 120px;
   }
-  .but1{
+  .but2{
     margin-left: 180px;
-    
-  }
+    }
   .b{
     background-color: #333456;
   }
